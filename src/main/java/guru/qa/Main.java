@@ -7,6 +7,5 @@ public class Main {
 
     private static String getMessage() {
         return "Hello qa.guru";
-        System.out.println("Hello qa.guru!!!!!");
     }
 }
